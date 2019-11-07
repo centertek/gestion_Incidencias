@@ -6,3 +6,12 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+// Styles 
+@import url(https://bootswatch.com/4/flatly/bootstrap.css);
+    
+
+.navbar-laravel {
+  background-color: rgba(255, 0, 255, 0.507)156, 154, 154);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
